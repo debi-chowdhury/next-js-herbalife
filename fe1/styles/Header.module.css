@@ -1,0 +1,19 @@
+.navbar{
+    height: 7rem;
+}
+.logo{
+    font-size: 45px;
+    font-weight: bold;
+    color:#00A862;
+}
+.sideNavoptions{
+    margin-left: 113px;
+    font-weight: 700;
+    font-size: 25px;
+}
+.navOptions{
+    padding:30px
+}
+.linkNav{
+    color:#00A862;
+}
